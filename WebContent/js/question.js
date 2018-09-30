@@ -14,7 +14,7 @@ $(function(){
 				$('#showcase').html(Result.answer);
 			},
 			error:function(){
-				$('#showcase').html("查询失败，请尝试重新查询");
+				$('#showcase').html("查询失败，请检查网络尝试重新查询");
 			}
 		});
 	});

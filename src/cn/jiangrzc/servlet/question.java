@@ -53,20 +53,22 @@ public class question extends HttpServlet {
 		String question = request.getParameter("infodata");
 		//3.根据问题查询questionid anwser
 		ResultSet rs = questionDAO.getAnswer(question);
+		//System.out.println(rs);
 		String answer = null;
-		if (rs == null || rs.equals(" ")) {
-			answer = "抱歉！由于数据不全，查询结果为空";
-		}else {
-			try {
-				while(rs.next()) {
-					answer = rs.getString("answer");
-				}
-			} catch (SQLException e) {
-				// TODO Auto-generated catch block
-				e.printStackTrace();
+		try {
+			while(rs.next()) {
+				answer = rs.getString("answer");
 			}
+		} catch (SQLException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
 		}
-		
+
+		if (answer == null) {
+
+			answer = "1.题目只需复制题干即可,不需要选项和问号等多余符号\r\n" +"<br />"
+					+ "2.如题目没问题，很抱歉！数据不完整，查询结果为空!";
+		}
 		//System.out.println(answer);
 		
 		//4.将answer转化为jsonp 数据格式

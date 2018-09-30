@@ -117,7 +117,7 @@ public class DbUtils {
 				for(int i = 0;i < param.length;i ++) {	
 					pstat.setString(i+1, param[i].toString());
 				}
-				System.out.println(sql);
+				//System.out.println(pstat);
 				rs = pstat.executeQuery();
  			}else {
  				stmt = conn.createStatement();
