@@ -1,0 +1,100 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>就业指导答案</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1,user-scalable=no,maximum-scale=1.0,minimum-scale=1.0">
+    <link rel="stylesheet" href="https://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u"
+        crossorigin="anonymous">
+    <style>
+        .nav{
+            height: 100px;
+            background: #000000;
+            overflow: hidden;
+        }
+        .nav img{
+            margin-top:5px;
+            margin-left:30px;
+        }
+        .img{
+            float: left;
+        }
+        .home{
+            float: right;
+        }
+        .home .btn{
+        	width: 70px;
+        	height: 40px;
+        	margin-top:30px;
+        }
+        .content{
+            margin-top:30px;
+        }
+        .content span{
+			font-size: 14px;
+			margin-left: 30px;
+        }
+        textarea{
+        	width: 100%;
+        	height: 150px;
+        	margin-left:5px;
+        	margin-top:20px;
+        	border:1px solid #000;
+        }
+        table{
+            width: 100%;
+            text-align:center;
+            margin-top:30px;
+        }
+        .footer{
+        	margin-top:30px;
+        	text-align: center;
+        	font: normal 14px/30px Arial, Helvetica, sans-serif;
+        }
+        .footer a{
+        	color: #9D9D9D;
+        }
+        tbody{
+        	color:red;
+        }
+        a:hover{text-decoration: none; color:#BADF73;}
+        a:active{text-decoration: none;}
+    </style>
+</head>
+<body>
+	<div class="container-fluid nav">
+        <img class="img" src="images/logo.jpg" alt="logo" height="100px" width="130px">
+        <div class="home">
+            <button class="btn-success btn"><a href="//jiangrzc.cn" target="blank">首页</a></button>
+        </div>
+    </div>
+    <div class="container">  
+        <div class="col-md-6 col-md-offset-3 content">
+            <h2>将题目复制到下面文本框中</h2>
+            <span style="color:red">注：数据来自个人整理，并非所有题目，若有题目查询不到望见谅</span>
+            
+            <div class="info">
+                <textarea name="infodata" id="infodata" placeholder="在此输入内容"></textarea>
+                <button id="button_answer" class="btn-success btn" style="margin-top:30px;margin-left:95px;">查询</button>
+                <table>
+                    <thead>
+                        <td>查询结果如下：</td>
+                    </thead>
+                    <tbody id="showcase"></tbody>
+                </table>
+            </div>
+        </div>
+        <div class="col-md-6 col-md-offset-3 footer">
+        	&copy;2018  <a href="http://jiangrzc.cn" target="blank">奋斗的土豆</a> <br>
+			<a href="http://www.miitbeian.gov.cn/" target="blank">鲁ICP备17028377号-1</a>	
+			<img src="http://jiangrzc.cn/wp-content/themes/simplehome_09131915/images/beianlogo.png">
+        </div>
+    </div>
+    
+    <script src="js/jquery-3.2.1.min.js"></script>
+	<!-- 最新的 Bootstrap 核心 JavaScript 文件 -->
+	<script src="js/bootstrap.min.js"></script>
+	<script type="text/javascript" src="js/question.js"></script>
+</body>
+</html>
