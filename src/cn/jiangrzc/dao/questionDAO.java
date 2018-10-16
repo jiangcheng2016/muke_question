@@ -10,7 +10,6 @@ public class questionDAO {
 	
 	//通过问题查询
 	public ResultSet getAnswer(String question) {
-		
 		String sql = "select answer from answer where questionid in (select questionid from questions where question like \"%\" ? \"%\");";
 		Object [] param = {question};
 		ResultSet rs = null;

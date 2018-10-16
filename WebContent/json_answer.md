@@ -41,6 +41,48 @@
 	"answer": ["错误"]
 }]
 
+`第一讲 4`
+[{
+	"questionid": "831",
+	"answernum": "1",
+	"answer": [" 控制讨论节奏，引导发言进行的个体。"]
+}, {
+	"questionid": "828",
+	"answernum": "1",
+	"answer": [" 其他选项都是"]
+}, {
+	"questionid": "832",
+	"answernum": "1",
+	"answer": ["对各类意见进行梳理综合的个体。"]
+}, {
+	"questionid": "845",
+	"answernum": "1",
+	"answer": ["正确"]
+}, {
+	"questionid": "841",
+	"answernum": "1",
+	"answer": ["错误"]
+}, {
+	"questionid": "846",
+	"answernum": "1",
+	"answer": ["错误"]
+}, {
+	"questionid": "842",
+	"answernum": "1",
+	"answer": ["错误"]
+}, {
+	"questionid": "836",
+	"answernum": "1",
+	"answer": ["错误"]
+}, {
+	"questionid": "838",
+	"answernum": "1",
+	"answer": ["正确"]
+}, {
+	"questionid": "834",
+	"answernum": "1",
+	"answer": ["正确"]
+}]
 
 `第二讲`
 
@@ -474,3 +516,178 @@
 	"answernum": "1",
 	"answer": ["正确"]
 }]
+
+`第8讲 two`
+
+[{
+	"questionid": "981",
+	"answernum": "1",
+	"answer": ["问我应该再注意什么问题"]
+}, {
+	"questionid": "979",
+	"answernum": "1",
+	"answer": ["停顿、复述、思考、请教"]
+}, {
+	"questionid": "977",
+	"answernum": "1",
+	"answer": ["熟人推荐"]
+}, {
+	"questionid": "995",
+	"answernum": "1",
+	"answer": ["正确"]
+}, {
+	"questionid": "991",
+	"answernum": "1",
+	"answer": ["错误"]
+}, {
+	"questionid": "987",
+	"answernum": "1",
+	"answer": ["错误"]
+}, {
+	"questionid": "990",
+	"answernum": "1",
+	"answer": ["正确"]
+}, {
+	"questionid": "983",
+	"answernum": "1",
+	"answer": ["正确"]
+}, {
+	"questionid": "985",
+	"answernum": "1",
+	"answer": ["错误"]
+}, {
+	"questionid": "993",
+	"answernum": "1",
+	"answer": ["错误"]
+}]
+
+`第8讲 3`
+[{
+	"questionid": "980",
+	"answernum": "1",
+	"answer": ["会议"]
+}, {
+	"questionid": "978",
+	"answernum": "1",
+	"answer": ["我到贵公司来可以1+1>2"]
+}, {
+	"questionid": "979",
+	"answernum": "1",
+	"answer": ["停顿、复述、思考、请教"]
+}, {
+	"questionid": "989",
+	"answernum": "1",
+	"answer": ["错误"]
+}, {
+	"questionid": "993",
+	"answernum": "1",
+	"answer": ["错误"]
+}, {
+	"questionid": "987",
+	"answernum": "1",
+	"answer": ["错误"]
+}, {
+	"questionid": "982",
+	"answernum": "1",
+	"answer": ["正确"]
+}, {
+	"questionid": "986",
+	"answernum": "1",
+	"answer": ["错误"]
+}, {
+	"questionid": "988",
+	"answernum": "1",
+	"answer": ["错误"]
+}, {
+	"questionid": "985",
+	"answernum": "1",
+	"answer": ["错误"]
+}]
+
+`第7讲2`
+[{
+	"questionid": "962",
+	"answernum": "1",
+	"answer": ["激情"]
+}, {
+	"questionid": "958",
+	"answernum": "1",
+	"answer": ["廉价与忠诚"]
+}, {
+	"questionid": "961",
+	"answernum": "1",
+	"answer": ["激情"]
+}, {
+	"questionid": "976",
+	"answernum": "1",
+	"answer": ["正确 "]
+}, {
+	"questionid": "973",
+	"answernum": "1",
+	"answer": ["正确"]
+}, {
+	"questionid": "969",
+	"answernum": "1",
+	"answer": ["正确"]
+}, {
+	"questionid": "971",
+	"answernum": "1",
+	"answer": ["正确"]
+}, {
+	"questionid": "968",
+	"answernum": "1",
+	"answer": ["错误"]
+}, {
+	"questionid": "972",
+	"answernum": "1",
+	"answer": ["错误"]
+}, {
+	"questionid": "966",
+	"answernum": "1",
+	"answer": ["正确"]
+}]
+
+`第1讲 3`
+[{
+	"questionid": "831",
+	"answernum": "1",
+	"answer": [" 控制讨论节奏，引导发言进行的个体。"]
+}, {
+	"questionid": "828",
+	"answernum": "1",
+	"answer": [" 其他选项都是"]
+}, {
+	"questionid": "830",
+	"answernum": "1",
+	"answer": ["能提出独到看法，特别是指出讨论主流意见中的谬误的个体。"]
+}, {
+	"questionid": "839",
+	"answernum": "1",
+	"answer": ["错误"]
+}, {
+	"questionid": "847",
+	"answernum": "1",
+	"answer": ["正确"]
+}, {
+	"questionid": "838",
+	"answernum": "1",
+	"answer": ["正确"]
+}, {
+	"questionid": "836",
+	"answernum": "1",
+	"answer": ["错误"]
+}, {
+	"questionid": "835",
+	"answernum": "1",
+	"answer": ["错误"]
+}, {
+	"questionid": "843",
+	"answernum": "1",
+	"answer": ["错误"]
+}, {
+	"questionid": "833",
+	"answernum": "1",
+	"answer": ["错误"]
+}]
+
+
