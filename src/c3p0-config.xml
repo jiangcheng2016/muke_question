@@ -23,9 +23,9 @@
 	<!-- 命名的配置 -->
 	<named-config name="gp2">
 		<property name="driverClass">com.mysql.jdbc.Driver</property>
-		<property name="jdbcUrl">jdbc:mysql://47.94.150.238:3306/muke_jiangrzc_c</property>
-		<property name="user">muke_jiangrzc_c</property>
-		<property name="password">root123</property>
+		<property name="jdbcUrl">jdbc:mysql://xxxxxxx</property>
+		<property name="user">xxxxx</property>
+		<property name="password">xxxxx</property>
 		<!-- 如果池中数据连接不够时一次增长多少个 -->
 		<property name="acquireIncrement">5</property>
 		<property name="initialPoolSize">20</property>
